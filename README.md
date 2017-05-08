@@ -4,7 +4,7 @@
 
 Modules for a data science program in a HEP/particle physics class at SMU
 
-This repository is home to Jupyter/Python notebook and other resources, arranged into modules, that can be used to conduct a data science portion of a HEP/Particle Physics course. This is implemented at SMU when the course is instructed by the lead author of this repository (Stephen Sekula).
+This repository is home to Jupyter/Python notebook and other resources, arranged into modules, that can be used to conduct a data science portion of a HEP/Particle Physics course. This is implemented at SMU where the course is instructed by the lead author of this repository ([Stephen Sekula](http://www.physics.smu.edu/sekula/)).
 
 The modules expect some familiarity already with Python, so it is important before utilizing any materials here that students already have a pre-requisite of some education in Python as a programming language. This can be done by the instructor or by requiring a Python programming course first.
 
@@ -57,4 +57,3 @@ Course Instructor: Professor [Stephen Sekula](http://www.physics.smu.edu/sekula/
 ## Acknowledgments
 
 - All badges made by [shields.io](http://shields.io/)
->>>>>>> d865f148d122ab6a88c43387c1654222e1cad504
